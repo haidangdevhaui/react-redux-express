@@ -1,5 +1,3 @@
-export default function(api){
-    api.get('/user', (req, res) => {
-        res.send('working!');
-    })
+export default (api) => {
+    
 }
